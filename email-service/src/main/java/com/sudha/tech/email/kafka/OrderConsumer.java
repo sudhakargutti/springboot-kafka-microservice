@@ -1,4 +1,4 @@
-package com.sudha.tech.stock.kafka;
+package com.sudha.tech.email.kafka;
 
 import com.sudha.tech.base.dto.OrderEvent;
 import org.slf4j.Logger;
